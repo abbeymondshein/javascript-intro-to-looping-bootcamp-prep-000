@@ -8,3 +8,8 @@
 //loopBody: Code which runs on every iteration as long as the condition evaluates to true
 //Use a for loop when you know how many times you want the loop to run (for example, when you have an array of known size).
 
+function forLoop(array){
+  for (let i=0;i<25; i++){
+    return "I am"+i+"strange loop."
+  }
+}
