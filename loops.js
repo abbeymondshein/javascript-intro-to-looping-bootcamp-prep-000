@@ -14,7 +14,7 @@ function forLoop(array){
       array.push("I am 1 strange loop.")
     }
     else {
-      array.push()
+      array.push("I am ${i} strange loops.")
     }
   }
 }
