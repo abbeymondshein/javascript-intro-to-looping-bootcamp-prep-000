@@ -1,3 +1,3 @@
-for () {
-  
+for ([initialization]; [condition]; [iteration]) {
+  [loopBody];
 }
