@@ -10,7 +10,8 @@
 
 function forLoop(array){
   for (let i=0;i<25; i++){
-    return "I am"+i+"strange loop."
+    console.log( "I am"+i+"strange loop.")
     return array
+   
   }
 }
