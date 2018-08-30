@@ -9,8 +9,8 @@
 //Use a for loop when you know how many times you want the loop to run (for example, when you have an array of known size).
 
 function forLoop(array){
-  for (let i=0;i<25; i++){
-    console.log( "I am "+i+" strange loop.")
+  for (var i=0; i<25; i++){
+    console.log( "I am "+i+" strange loop.");
    
   }
 }
